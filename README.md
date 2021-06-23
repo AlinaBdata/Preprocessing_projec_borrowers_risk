@@ -13,4 +13,4 @@ The project is to prepare a report for a bank’s loan division. We'll need to f
 
 The report will be considered when building the credit scoring of a potential customer. The credit scoring is used to evaluate the ability of a potential borrower to repay their loan.
 
-The project includes processing missing values and duplicates, categorizing data (using nltk library)and some basic analysis. 
+The project includes processing missing values and duplicates, categorizing data (using nltk library) and some basic analysis. 
