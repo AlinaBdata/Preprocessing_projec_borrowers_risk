@@ -1,4 +1,4 @@
-# Preprocessing_projec_borrowers_risk
+# Preprocessing_project_borrowers_risk
 
 View the project: https://alinabdata.github.io/Preprocessing_projec_borrowers_risk/
 
